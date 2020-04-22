@@ -11,7 +11,10 @@
 
 6. Wenn man kein magnetischen metall hat kann man es nicht herausfinden, aber wenn man einen anderen gefaerbten magnet hat, kann man ausnutzen das sich die plus und minus pole anziehen. Dann muss man ausprobieren was geht und was nicht.
 
-7. Hier bin ich mir nicht sicher aber fehler gehoeren ja dazu :). Ich denke dass wenn ich die Stricknadel auf dem nordpol streife dass dann auch die Stricknadel an der stelle zu einem plus pol wird und umgekehrt. 
+7. a) Hier bin ich mir nicht sicher aber fehler gehoeren ja dazu :). Ich denke dass wenn ich die Stricknadel auf dem nordpol streife dass dann auch die Stricknadel an der stelle zu einem plus pol wird und umgekehrt. 
+   
+   b) Ich denke dass man dann zwei kleine magneten hat mit je halber leistung, denn die ladung geht ja nicht verloren sondern wird aufgeteilt.
+
 
 8. (+ -) (- +) (- +) Mit dem "setup" kann man zeigen dass sich magneten mit gleichen polen abstossen und mit ungleichen anziehen.
 
