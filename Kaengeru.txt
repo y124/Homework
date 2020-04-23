@@ -8,4 +8,52 @@ A4. A
 
 A5. E
 
-A6. D
+A6. B
+
+A7. D
+
+A8. D
+
+A9. D
+
+A10. B
+
+B1. A
+
+B2. C
+
+B3. B
+
+B4. C
+
+B5. A
+
+B6. E
+
+B7. B
+
+B8. D
+
+B9. C
+
+B10. E
+
+C1. B
+
+C2. A
+
+C3. C
+
+C4. D
+
+C5. B
+
+C6. E
+
+C7. C
+
+C8. D
+
+C9. D
+
+C10. C
