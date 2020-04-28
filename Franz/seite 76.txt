@@ -1,11 +1,29 @@
 Nr 4
 
-1. ATTENDU-MOI
+    1. ATTENDU-MOI
 
-2. AIDE-NOUS
+    2. AIDE-NOUS
 
-3. ECUTE-LE
+    3. ECUTE-LE
 
-4. S'DEPECHE-VOUS
+    4. S'DEPECHE-VOUS
+
+    5. REPOND-ELLE
+
+    6. S'AMUSE-TOI BIEN
+
+Nr. 5 b)
+2.
+    + RANGE-TOI
+    - NE TE RANGE PAS
+
+3.
+    + appele david
+    - ne david appele pas
+
+4. 
+    + parle LE
+    - ne le parle pas
 
 5. 
+    + 
