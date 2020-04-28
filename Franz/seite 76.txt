@@ -26,4 +26,8 @@ Nr. 5 b)
     - ne le parle pas
 
 5. 
+    + FAIT LA
+    - NE LA FAIT PAS
+
+6. 
     + 
