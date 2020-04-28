@@ -34,4 +34,12 @@ Nr. 5 b)
     - NE LE APPENDRE PAS
 
 7. 
-    + 
+    + REPONDE-LEUR
+    - NE LEUR REPONDE PAS
+
+8.  + FAIT-LA
+    - NE LA FAIT PAS
+
+9.
+    + FAIT-MOI
+    - NE ME FAIT PAS
