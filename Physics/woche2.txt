@@ -16,6 +16,8 @@ elementarmagneten
 1.
     Das ist ein wirkungsbereich, in dem magnetische Kraefte ausgeuebt werden.
 
-2. Deklination ist der – kleinere – Winkel zwischen der Richtung der Horizontalkomponente der Feldlinien des Erdmagnetfeldes und der geographischen Nordrichtung, welcher insbesondere bei der Navigation mit dem Magnetkompass berücksichtigt werden muss
+2. Deklination ist der – kleinere – Winkel zwischen dem der Nordpol ein wenig versetzt ist, bei unterschiedlichen positionen
 
-4. 
+4. Das ist das selbe nur dass der Kompass steht. Es gibt die sogennante inklinations nadel, die sich um eine horizontaile achse dreht.
+
+5. Das wir nicht alle einfach wegfliegen. Die Schwerkraft haelt alles auf dem boden
