@@ -36,3 +36,13 @@ Bis auf Merkur und Venus haben alle Planeten Monde.
 In unserem Sonnensystem gehoeren 8 Planeten und mehr als 160 Monde und einige Zwergplaneten.
 
 Sonne, Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun
+
+1.3 Allgemeines
+
+mttl. Entfernung Erde - Sonne: 149.6 km
+
+Diese Entfernung wird als eine astronomische Einheit genannt 1 AE = 149,6 km
+
+Kuiper Guertel. Jenseits der Neptun - Bahn. c.a. 50000 Himmelskoerper
+
+Oertsche Wolke: aeussere Grenze des Sonnensystems, reicht bis c.a. 1000 000 AE in den Weltraum, Gestein, Eis und viele Kometen.
