@@ -32,3 +32,7 @@ Damit ein Himmelskoerper als Planet gilt, muss er 3 kriterien erfuellen.
 Zwergplaneten wie z.B. Pluto, Eris, Eres erfuellen dieses dritte kriterium nicht.
 
 Bis auf Merkur und Venus haben alle Planeten Monde.
+
+In unserem Sonnensystem gehoeren 8 Planeten und mehr als 160 Monde und einige Zwergplaneten.
+
+Sonne, Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun
