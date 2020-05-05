@@ -23,3 +23,12 @@ Sone: 696000km |1,989 × 10^30 kg|   5770 K
 
 Damit ein Himmelskoerper als Planet gilt, muss er 3 kriterien erfuellen.
 
+1. Er bewegt sich um einen Stern
+
+2. Es verfuegt ueber eine Masse, dass ihm die Schwerkraft eine Kugelfoermige Gestalt verleiht.
+
+3. Er verfuegt ueber so viel masse, dass er mithilfe der Schwerkraft die Umgebung seiner Umlaufbahn von kleineren Himmelskoerpern gesaeubert hat.
+
+Zwergplaneten wie z.B. Pluto, Eris, Eres erfuellen dieses dritte kriterium nicht.
+
+Bis auf Merkur und Venus haben alle Planeten Monde.
