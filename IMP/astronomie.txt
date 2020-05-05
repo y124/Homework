@@ -13,8 +13,13 @@ Sie ist eine riesige selbst leuchtende Gaskugel. Sie ist die einzige natuerliche
 Vergleich :
     Erde - Sonne
 
-        Radius | Masse:
-Erde: 6371km   |   
+        Radius | Masse          | temperatur
+Erde: 6371km   | 5.97 * 10^24 kg| 14-15 grad celcius
+               |                |
+Sone: 696000km |1,989 × 10^30 kg|   5770 K
                |
-Sone: 696000km |
-               |
+
+1.2 Die Planeten und ihre Monde
+
+Damit ein Himmelskoerper als Planet gilt, muss er 3 kriterien erfuellen.
+
