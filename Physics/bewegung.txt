@@ -1,0 +1,13 @@
+Bewegungen
+
+1. buch bleibt still
+2. Buch bewegt sich
+
+Mir faellt auf, dass die ergebnisse beim einfachen ueberschlagen nicht konsistent sind und immer wieder abweichen.
+
+https://i.imgur.com/WxP46gQ.png
+
+3. V1. 0,23; 0,230; 2266666666666667; 0,2275; 0,23
+
+   V2. .14; .13; 0,1333333333333333; 0,14; 0,14
+
