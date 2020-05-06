@@ -11,3 +11,13 @@ https://i.imgur.com/WxP46gQ.png
 
    V2. .14; .13; 0,1333333333333333; 0,14; 0,14
 
+mein diagramm koennen sie auf https://alx365.github.io/physic/index.html finden
+
+Aufgabe 1: b) 33,06818181818182 m/s
+
+         a) 
+
+
+Aufgabe 2: 
+
+Aufgabe 3: 11250 m 
