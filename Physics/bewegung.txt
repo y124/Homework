@@ -13,11 +13,11 @@ https://i.imgur.com/WxP46gQ.png
 
 mein diagramm koennen sie auf https://alx365.github.io/physic/index.html finden
 
-Aufgabe 1: b) 33,06818181818182 m/s
+Aufgabe 1:  b) 10,8km/s
 
-         a) 
+            a) 3m/s
 
 
-Aufgabe 2: 
+Aufgabe 2: 0.875 h
 
 Aufgabe 3: 11250 m 
