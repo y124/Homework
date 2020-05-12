@@ -27,6 +27,12 @@ descendu
 
 Die Kinder nehmen die Bücher aus dem Regal...
 
+rausnehmen
+Die Kinder nehmen die Bücher aus dem Regal...
+
+rausholen
+Sie holt ihre Sachen aus ihrem Rucksack.
+
 sortie
 
 Sie holt ihre Sachen aus dem Rucksack 
@@ -39,3 +45,24 @@ sortir:
 
 
 
+Je ne sais pas.
+
+Hier, franck est descendu es livres de l’étagère.
+
+Hier, Marie et Fiona sont descendues à la station «Charlottenplatz».
+
+hier, Les garçons de la classe 8c sont descendus les tables du deuxième étage.
+
+hier, Les élèves au KKSt sont sorties de l’école à 13 heures 10.
+
+hier, christine est sortiee le chine lundi.
+
+hier, il est sortie son portable de son sac.
+
+Léa est sortie les poubelles hier.
+
+Eva est sortiee avec ses amis samedi.
+
+Mes parents sont sorties notre chien dimanche.
+
+Elle est sortiee une barre de chocolat dans son sac.
