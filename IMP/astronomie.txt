@@ -46,3 +46,34 @@ Diese Entfernung wird als eine astronomische Einheit genannt 1 AE = 149,6 km
 Kuiper Guertel. Jenseits der Neptun - Bahn. c.a. 50000 Himmelskoerper
 
 Oertsche Wolke: aeussere Grenze des Sonnensystems, reicht bis c.a. 1000 000 AE in den Weltraum, Gestein, Eis und viele Kometen.
+
+1.4. Weitere Informationen
+
+Planetoide, Planetoidenguertel zwischen Mars und Jupiter Kometen
+
+Meteroiten, sehr viel kleiner als Planetoide, trifft er auf die Erde glueht er als Meteor auf (Sternschuppe), erreicht er die Eerde wird er dann als meteorit bezeichnet
+
+
+1.5. 
+johannes kepler: basierend auf den beobachtungen von Bracke entdeckte Kepler die drei Keplerschen Gesetze und ersetzte die Kreislaufbahn seiner Vorgeanger durch ellipsen.
+
+Isaac Newton: endteckte das gesetz der masse anziehung. Mit dessen hilfe lassen sich Bewegungen der Himmelskoerper berechnen.
+
+3. Gesetze der Planetenbewegung
+
+1. Keplers-Gesetz Trabanten bewegen sich auf ellipsen inder einem brennpunkt der sonne steht.
+
+https://i.imgur.com/wsqXnKf.png
+
+2. Kepler Gesetz
+
+Der von der Sonne zum Planeten gezogene Lichstrahl ueberstreckt in gleichen zeiten die gleiche strecke.
+
+https://i.imgur.com/sw2DVE9.png
+
+Folge: keine konstanten geschwindigkeiten der Planeten.
+
+Lineares Beispiel
+    Sonne
+   /  |  \
+   x  x   x
