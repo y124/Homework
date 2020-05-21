@@ -1,0 +1,12 @@
+1 a) Ihr schulweg ist 1600km. 
+
+b)  1. Sie leauft direkt zur schule, und bleibt dann davor 5 minuten stehen.
+    2. Sie leauft ein die healfte und macht dann eine pause. Am ende steht sie auch nur noch rum.
+    3. SIe leauft hin, leauft dann wieder zureck und dann geht sie in die Schule.
+    4. Sie leauft macht dann eine pause und leauft weiter.
+
+2.  a) 4km die stunde
+    b) 7 km
+    c) ich hab nochmal ein diagramm gemacht: https://alx365.github.io/physic/diagramme.html
+
+3. Es beschleunigt und bleibt dann gleich schnell
