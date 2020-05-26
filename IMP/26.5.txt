@@ -1,0 +1,17 @@
+3. Keplers gesetz
+
+Die Quadrate der Umlaufzeiten T3 und T2 zweier beliliebiger Planeten (um den gleichen stern) verhalten sich wie die dritten Potenzen der grossen halbachsen a1 und a2 der Bahnellipsen
+
+T1 hoch 2 / t2 hoch 2 = a1 hoch 3 / a2 hoch 3
+
+a1 hoch 3/ t1 hoch 2 = a2 hoch 3 / t2 hoch 2 = ... = c = const
+
+Erde - Satellit: c = 13 * 10 hoch 20 m hoch 3 / h hoch 2
+
+Sonne - Planet :(= 4,35  * 10 hoch 25  m hoch 3 / h  hoch 2.
+
+Folge: Die umlaufbahn der Planeten wachsen mit der Entfernung von der Sonne 
+
+ Von der umlaufbahn ist nur die grosse halb achse von bedeutung
+
+=> Umlauffaktor eines Planeten / Satellititen ist bei Ellipsen bahn mit der groessen halbachse a genau so gross wie bei kreisachse mit dem radius r = a.
